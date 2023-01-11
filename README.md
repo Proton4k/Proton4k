@@ -15,7 +15,7 @@
 
 [Add a brief summary of some of your most interesting and relevant projects. Include links to the live project and the repository if possible]
 - **Project 1:** [TMIBruteforceGUI] - [A GUI that makes Bruteforcing a TrackMania Raplay with TMInterface, with the use of custom scripts, so much easier] - [[github.com/codyninja1](https://github.com/CodyNinja1/TMIBruteforceGUI)]
-- **Project 2:** [Arduino IDE] - [An IDE made for coding Arduino Robots!] - [[Link to live project or repository](https://github.com/arduino/Arduino)]
+- **Project 2:** [Arduino IDE] - [An IDE made for coding Arduino Robots!] - [https://github.com/arduino/Arduino]
 - **Project 3:** [Basic Web Development] - [Learning the basic to web development. Also learning HTML, CSS and JavaScript.] - [https://HTML.com - https://www.w3schools.com/css/ - https://javascript.com]
 
 ## Contact
