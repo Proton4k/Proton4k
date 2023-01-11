@@ -1,4 +1,4 @@
-# [Proton4k]
+# Proton4k
 
 [Your profile picture (can be a URL or a file in your repository)]
 
@@ -14,9 +14,9 @@
 ## Projects
 
 [Add a brief summary of some of your most interesting and relevant projects. Include links to the live project and the repository if possible]
-- **Project 1:** [Project name] - [Brief summary of the project and its features] - [Link to live project or repository]
-- **Project 2:** [Project name] - [Brief summary of the project and its features] - [Link to live project or repository]
-- **Project 3:** [Project name] - [Brief summary of the project and its features] - [Link to live project or repository]
+- **Project 1:** [TMIBruteforceGUI] - [A GUI that makes Bruteforcing a TrackMania Raplay with TMInterface, with the use of custom scripts, so much easier] - [[github.com/codyninja1](https://github.com/CodyNinja1/TMIBruteforceGUI)]
+- **Project 2:** [Arduino IDE] - [An IDE made for coding Arduino Robots!] - [[Link to live project or repository](https://github.com/arduino/Arduino)]
+- **Project 3:** [Basic Web Development] - [Learning the basic to web development. Also learning HTML, CSS and JavaScript.] - [https://HTML.com - https://www.w3schools.com/css/ - https://javascript.com]
 
 ## Contact
 
