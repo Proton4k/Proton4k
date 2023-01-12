@@ -1,6 +1,6 @@
 # Proton4k
 
-[Your profile picture (can be a URL or a file in your repository)]
+![Profile Picture](https://github.com/Proton4k/Proton4k/blob/main/atom.jpg?raw=true)
 
 ## About Me
 
