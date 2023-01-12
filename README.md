@@ -1,7 +1,7 @@
 # Proton4k
 
-<p align="center">
-  <img src="atom.jpg" width="350" title="Profile Picture">
+<p align="left">
+  <img src="atom.jpg" width="250" title="Profile Picture">
 </p>
 
 ## About Me
