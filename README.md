@@ -1,6 +1,8 @@
 # Proton4k
 
-![Profile Picture](https://github.com/Proton4k/Proton4k/blob/main/atom.jpg?raw=true)
+<p align="center">
+  <img src="atom.jpg" width="350" title="Profile Picture">
+</p>
 
 ## About Me
 
